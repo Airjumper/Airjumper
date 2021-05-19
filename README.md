@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Airjumper
 - 👀 I’m interested in web development
 - 🌱 I currently graduated from WSU majoring in mobile computing      
-- 💞️ I’m looking to collaborate on ...
+<!--- - 💞️ I’m looking to collaborate on ...  --->
 - 📫 How to reach me paradisalsong@hotmail.com
 
 <!---
